@@ -52,10 +52,14 @@ img {
 }
 
 .address {
+  max-width: 240px;
+  display: flex;
+  flex-direction: column;
   font-size: 18px;
   font-style: normal;
   line-height: 1.35;
   text-underline-offset: 4.5px;
+  overflow-wrap: break-word;
 }
 
 .address__list {
