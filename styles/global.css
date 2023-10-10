@@ -62,10 +62,6 @@ img {
   overflow-wrap: break-word;
 }
 
-.address__list {
-  list-style: none;
-}
-
 .links-item_active .header__link,
 .links-item_active .footer__link {
   text-decoration: none;
